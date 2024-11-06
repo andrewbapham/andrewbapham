@@ -7,24 +7,16 @@
     width="35"
   />
 </h1>
-<p align="center">
-  I'm a software engineering
-</p>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andrewbapham/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge"
-    />
-  </a>
-  <a href="https://andrewpham.xyz/">
-    <img
-      alt="Static Badge"
-      src="https://img.shields.io/badge/Website-00cf00?style=for-the-badge"
-    />
-  </a>
-</div>
+I'm a passionate computer science student at the University of Ottawa, who loves learning about technology and building exciting and scalable applications! I have experience working with a variety of programming languages and technologies, in various domains such as frontend, backend, cloud and embedded development.
+
+- 🔭 I’m currently working on:
+  - [Distributed web crawler](https://github.com/andrewbapham/distributed-web-crawler): A distributed web crawler built using Go and Kafka
+  - [Tho Phuong Ha](https://github.com/andrewbapham/thophuongha-website): A website displaying my late grandfather's literary work
+- 🌱 I’m currently learning
+  - [Go](https://golang.org/)
+  - [Kafka](https://kafka.apache.org/)
+  - [C++](https://isocpp.org/)
 
 <div>
   <h2 align="center">Technologies and Tools</h2>
@@ -94,6 +86,20 @@
     /></a>
   </p>
 </div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/andrewbapham/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn Badge"
+    />
+  </a>
+  <a href="https://andrewpham.xyz/">
+    <img
+      alt="Static Badge"
+      src="https://img.shields.io/badge/Website-00cf00?style=for-the-badge"
+    />
+  </a>
+</div>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=andrewbapham&color=00cf00)
 
@@ -102,7 +108,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
